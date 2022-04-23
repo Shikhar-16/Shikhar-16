@@ -35,7 +35,7 @@
 ## &#x1f4c8; My GitHub Stats
 
 
-[![Shikhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shikhar_1609&include_all_commits=true&show_icons=true&theme=gotham)](https://github.com/shikhar_1609/github-readme-stats)
+[![Shikhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shikhar_1609&include_all_commits=true&show_icons=true&theme=gotham)](https://github.com/shikhar-16/github-readme-stats)
 
 --------
 
