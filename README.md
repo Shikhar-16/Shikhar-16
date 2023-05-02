@@ -3,7 +3,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/shikhar_1609?style=social)
 
 
-- 👀 I’m interested in Web Development, Programming and Mathematics
+- 👀 I’m interested in Web Development, Data Science and Mathematics
 - 🌱 I’m currently into DSA
 - 📫 Contact me on --- 
       <a href= "mailto:shikhar.sachan16@gmail.com">Email</a>, 
